@@ -1,0 +1,212 @@
+<html>
+<head>
+<title> Immanuel Kant</title>
+<meta charset=" utf-8">
+</head>
+
+<body bgcolor="LightSeaGreen"> 
+<center>
+<font size=16 color=red face= centrury>
+<b>
+Immanuel Kant
+</b>
+</font>
+<br>
+<marquee bgcolor=green width=800 height= 50 behavior= alternate direction=left>
+<font color= white size=6 face= arial>
+<i>
+Bienvenidos a esta pagina web
+</i>
+</font>
+</marquee>
+</center>
+<hr>
+<font>
+Fue un filósofo alemán de la Ilustración. Fue el primero y más importante representante del criticismo y precursor del idealismo alemán. Es considerado como uno de los pensadores más influyentes de la Europa moderna y de la filosofía universal. Además se trata del penúltimo pensador de la modernidad, anterior a la filosofía contemporánea que comienza en 1831 tras la muerte del pensador Hegel.
+</font>
+</body>
+<body>
+<center>
+<img src="C:\Users\Bryan Isreal\Downloads\220px-Kant_gemaelde_3.jpg">
+</center>
+</body>
+<body>
+<center>
+22 de abril de 1724 - 12 de febrero de 1804
+</center>
+</body>
+</font>
+
+<font>
+<b>
+Aportaciones
+</b>
+</font>
+<p>
+ La filosofía de Kant no niega la existencia de Dios, ni un orden moral, ni la realidad pensable de un mundo físico. Lo que niega es que la razón humana pueda trascender y llegar a esos entes en sí mismos: sean el "mundo", "Dios" o el "alma". Además Kant constituyó la idea de que el mundo, el sol y todos los planetas son complementarios unos con otros.
+</p>
+<p>
+El origen de todos nuestros conocimientos está en los sentidos. El espacio es la forma que aportamos para las representaciones externas. El tiempo es la forma pura que previamente aportamos tanto para lo externo como para lo interno. Aparte de estas formas puras, la razón humana dispone de la facultad del entendimiento, conformadora espontánea con su bagaje de categorías. Las intuiciones sensibles por sí mismas y solas no engendran conocimiento: son ciegas.
+</p>
+<font>
+<b>
+Pensamiento
+</b>
+</font>
+<font>
+<p>
+Todo aquel que se ocupe de filosofía moderna no puede dejar de lado a Kant; tal vez haya que decir lo mismo de todo aquel que se ocupe de filosofía. Su obra es típicamente alemana, muy elaborada y un tanto nebulosa. Encerrado en su gabinete, donde pasó su larga vida de casi 80 años, cuidaba poco el filósofo del mundo banal, aun cuando lo frecuentaba con placer.
+
+Encasillado en su subjetividad, a la manera de Descartes, da a sus teorías una dirección muy distinta a la del filósofo francés. Descartes se adentra en su yo, pero ha de encontrar el camino para elevarse a Dios, y a un tiempo, para dar «certidumbre» al mundo físico o de la res extensa. Kant, encerrado en un mundo fenoménico, ha de descalificar la posibilidad de contactar a las cosas en sí mismas, sean las del mundo, la de Dios, o del alma.
+</p>
+<p>
+La filosofía de Kant no niega la existencia de Dios, ni un orden moral, ni la realidad pensable de un mundo físico. Lo que niega —salvo en lo moral— es que la razón humana pueda trascender y llegar a esos entes en sí mismos: sean el «mundo», «Dios» o el «alma». Además Kant constituyó la idea de que el mundo, el Sol y todos los planetas son complementarios unos con otros.
+</p>
+<p>
+Kant parte de la conciencia, de las representaciones fenoménicas del yo, sean provenientes del mundo externo o interno. Se aboca, desde un principio, a la estética trascendental.
+
+Kant entiende por sensación el efecto de un objeto sobre la facultad representativa, en cuanto somos afectados por él. Se entiende que se prescinde por completo de la naturaleza del objeto afectante y que solamente se presta atención al efecto que se produce en nosotros, en lo puramente subjetivo.
+
+La intuición empírica es una percepción cualquiera que refleja a un objeto, y así el conocimiento es considerado como un medio. La intuición empírica es la que se refiere a un objeto, pero por medio de la sensación. El fenómeno es el objeto indeterminado de la intuición empírica. El árbol puede afectarnos y de él tenemos una representación fenoménica. Nada podemos saber del árbol en sí. La realidad de la cosa, en ella misma, es un noúmeno no alcanzable.
+</p>
+</font>
+
+<font>
+<b>
+Politica
+</b>
+</font>
+<p>
+En 1793, Immanuel Kant escribió en un ensayo titulado Sobre el dicho: esto puede ser correcto en la teoría pero no vale para la práctica que actualmente se menciona más brevemente como Teoría y práctica. Lo escribió en un año de cambios políticos fundamentales: George Washington juraba como primer presidente de los Estados Unidos, la ciudad alemana de Mainz se declaraba república independiente, la Revolución Francesa culminaba con la ejecución de Luis XVI y María Antonieta. Este ensayo, Kant examinaba la teoría y la práctica de la política, además de la legitimidad del gobierno.
+</p>
+<p>
+Kant afirma que ningún principio legislativo universalmente válido puede basarse en la felicidad, cuestionando la posición tomada por Platón unos 2000 años antes. El ensayo afirma que la felicidad no es la base de las leyes nadie puede -ni debe- tratar de explicar a otro que es la felicidad, de modo que no es posible aplicar una regla constante sobre ella "Porque [...] las ideas enormemente conflictivas y variables sobre lo que es la felicidad", escribió, "hace imposible todo principio fijo de manera que la felicidad nunca podrá ser el principio adecuado de una legislación". Lo que es crucial en cambio es que el Estado asegure la libertad del pueblo dentro de la ley, "de manera que cada uno sea libre de buscar su felicidad como mejor le parezca, en tanto no quebrante la libertad los derechos legales de sus conciudadanos en general".
+</p>
+<font>
+<b>
+Etica Kantiana
+</b>
+</font>
+<p>
+La ética kantiana está contenida en lo que se ha denominado como sus tres obras éticas: Fundamentación de la Metafísica de las costumbres, Crítica de la razón práctica y Metafísica de las costumbres. Kant se caracterizó por la búsqueda de una ética o principios con el carácter de universalidad que posee la ciencia. Para la consecución de dichos principios Kant separó las éticas en: éticas empíricas (todas las anteriores a él) y éticas formales (ética de Kant).
+</p>
+<p>
+Este nuevo planteamiento acerca de la ética provoca importantes replanteamientos de la ética a partir de Kant.
+</p>
+<p>
+La razón teórica formula juicios frente a la razón práctica que formula imperativos. Estos serán los pilares en los que se fundamenta la ética formal kantiana. La ética debe ser universal y, por tanto, vacía de contenido empírico, pues de la experiencia no se pueden extraer deberes universales, sino solo planteamientos prudenciales condicionados por la experiencia sensible. Debe, por lo mismo, ser a priori, es decir, anterior a la experiencia y autónoma, esto es, que la ley le viene dada desde dentro del propio individuo y no desde fuera. Los imperativos de esta ley deben ser categóricos y no hipotéticos que son del tipo «Si quieres A, haz B».
+</p>
+<p>
+En contraposición a la ética a Kant se encuentran las diversas éticas orientadas a fines y bienes, como las de Aristóteles o santo Tomás de Aquino.
+</p>
+<p>
+El imperativo categórico tiene tres formulaciones:
+</p>
+<p>
+<blockquote>
+1.-«Obra solo según una máxima tal, que puedas querer al mismo tiempo que se torne en ley universal».
+</blockquote>
+</p>
+<p>
+<blockquote>
+2.-«Obra de tal modo que trates a la humanidad, tanto en tu persona como en la de cualquier otro, siempre como un fin y nunca solamente como un medio». 
+</blockquote>
+</p>
+<p>
+<blockquote>
+3.-«Obra como si por medio de tus máximas fueras siempre un miembro legislador en un reino universal de los fines».
+</blockquote>
+</p>
+
+<body>
+
+<img src="C:\Users\Bryan Isreal\Downloads\haz2m2ogs6mowqhzcfrmtas2hd6jc3sachvcdoaizecfr3dnitcq_1_0.png". 
+
+</body>
+
+<font>
+<b>
+<p>
+Filosofía de la historia
+</p>
+</b>
+</font>
+<p>
+Los escritos de Kant sobre filosofía de la historia forman tan solo una parte menor de su amplia producción. Sin embargo, su impacto será importante, especialmente por su influencia sobre las filosofías de la historia de pensadores posteriores de gran importancia como Marx y Hegel. El aporte decisivo de Kant a la filosofía de la historia es su Idea para una historia universal en clave cosmopolita (Idee zu einer allgemeinen Geschichte in weltbürgerlicher Absicht) de 1784.
+</p>
+<p>
+La concepción histórica de Kant está inspirada por la idea aristotélica de la fisis, es decir, por la concepción de una naturaleza de las cosas, una esencia que se despliega y que contiene en sí tanto la necesidad como las leyes básicas del desarrollo. Se trata de la idea de una potencialidad (potentia) que a través de su propio proceso natural de desarrollo (fisis) llega a hacerse realidad o actualidad (actus). De esta manera se alcanza la entelequia o fin del desarrollo. Kant transformará esta idea en la base de una visión progresiva de la historia totalmente ajena al pensamiento griego clásico. Según Kant, una ley inmanente del progreso, dictada por la necesidad de la naturaleza de alcanzar sus fines, rige la historia aparentemente absurda y antojadiza de la especie humana, elevándola sucesivamente “desde el nivel inferior de la animalidad hasta el nivel supremo de la humanidad”​. La tarea del filósofo es, justamente, “descubrir en ese absurdo decurso de las cosas humanas una intención de la Naturaleza, a partir de la cual sea posible una historia de criaturas tales que, sin conducirse con arreglo a un plan propio, sí lo hagan conforme a un determinado plan de la Naturaleza”​.
+</p>
+<p>
+Según Kant, el hombre comparte, como especie, el destino teleológico o determinado por su fin que Aristóteles vio como la ley de desarrollo de todo lo natural: “Todas las disposiciones naturales de una criatura están destinadas a desarrollarse alguna vez completamente y con arreglo a un fin […] En el hombre aquellas disposiciones naturales, que tienden al uso de la razón, deben desarrollarse por completo en la especie, mas no en el individuo”​. Esta es la fuerza que actúa entre bastidores con el fin de desplegar todas las potencialidades humanas y los individuos o los pueblos no son más que sus instrumentos inconscientes: “Poco imaginan los hombres (en tanto que individuos e incluso como pueblos) que, al perseguir cada cual su propia intención según su parecer y a menudo en contra de los otros, siguen sin advertirlo, como un hilo conductor, la intención de la Naturaleza, que les es desconocida, y trabajan en pro de la misma”​.
+</p>
+
+<font>
+<b>
+Obras
+</b>
+<font>
+<p>
+-Pensamientos sobre la verdadera estimación de las fuerzas vivas (Gedanken von der wahren Schätzung der lebendigen Kräfte) (1747).
+</p>
+<p>
+-Historia general de la naturaleza y teoría del cielo (Allgemeine Naturgeschichte und Theorie des Himmels) (1755). En español: trad. de J.E. Llunqt; Juárez Editor. Buenos Aires, 1969 (sin ISBN).
+</p>
+<p>
+-Nueva dilucidación de los primeros principios del conocimiento metafísico (Principiorum primorum cognitionis metaphysicae nova dilucidatio) (1755). En Disertaciones latinas de Kant. Traducción de Juan David García Bacca. Universidad Central de Venezuela, Caracas, 1974.
+</p>
+<p>
+-Historia y descripción de la naturaleza de los sucesos más notables del seísmo que ha sacudido a una gran parte de la Tierra a finales del año 1755 (Geschichte und Naturbeschreibung der merkwürdigsten Vorfälle des Erdbebens, welches an dem Ende des 1755sten Jahres einen grossen Theil der Erde erschüttert hat) (1756).
+</p>
+<p>
+-Nuevo concepto del movimiento y el reposo (Neuer Lehrbegriff der Bewegung und Ruhe und der damit verknüpften Volgerungen in den ersten Grunden der Naturwissenschaft) (1758).
+</p>
+<font>
+<center>
+<marque direction="right"><img src="C:\Users\Bryan Isreal\Downloads\0000666949.jpg" alt="paisaje 1" width="200"
+height="300">
+</center>
+</font>
+<font>
+<b>
+Frases de Immanuel Kant
+</b>
+</font>
+<p>
+1. La voluntad de Dios no es simplemente que seamos felices, sino que nos hagamos felices a nosotros mismos.
+</p>
+<p>
+2. La felicidad no es un ideal de la razón, sino de la imaginación.
+</p>
+<p>
+3. Tuve que eliminar conocimiento para hacerle espacio a la creencia.
+</p>
+<p>
+4. La experiencia sin teoría es ciega, pero la teoría sin experiencia es simple juego intelectual.
+</p>
+<p>
+5. Ten coraje de usar tu propia razón. Ese es el lema de la iluminación.
+</p>
+<p>
+6. La lectura de todos los buenos libros es como una conversación con las mejores mentes de los siglos pasados.
+</p>
+<p>
+<b>
+Estados y Derechos
+</b>
+</p>
+<p>
+En Paz perpetua, Kant enumera una serie de condiciones que consideró necesarias para poner fin a las guerras y la creación de una paz duradera que incluía un mundo de repúblicas constitucionales. Su teoría republicana clásica se extendió en la Metafísica de las costumbres. Kant escribió que los gobiernos tienen dos series de deberes: Proteger los derechos y las libertades del pueblo, por justicia; y promover su felicidad, en tanto pueda hacerse sin menoscabo de los derechos y las libertades.
+</p>
+<marquee bgcolor=yellow width=800 height= 50 behavior= alternate direction=left>
+<font color= Black size=5 face= arial>
+<i>
+Bryan Israel Ponce Hernandez "6-A" NL: 21  Turno: Matutino
+</i>
+</font>
+</marquee>
+
+
+
+</body>
+</html>
